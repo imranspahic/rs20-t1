@@ -1,0 +1,8 @@
+#prozor {
+    -fx-font-family: "Arial";
+    -fx-font-style: italic;
+}
+
+.crvenProzor {
+    -fx-background-color: lightpink;
+}
